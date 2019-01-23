@@ -1,0 +1,12 @@
+G:\A-Workspace\AppDataLoader\src\main\java\com\example\dataloader\entity\Article.java
+G:\A-Workspace\AppDataLoader\src\main\java\com\example\dataloader\entity\Product.java
+G:\A-Workspace\AppDataLoader\src\main\java\com\example\dataloader\service\ProductService.java
+G:\A-Workspace\AppDataLoader\src\main\java\com\example\dataloader\controller\rest\ProductRestController.java
+G:\A-Workspace\AppDataLoader\src\main\java\com\example\dataloader\AppDataLoaderApplication.java
+G:\A-Workspace\AppDataLoader\src\main\java\com\example\dataloader\service\IProductService.java
+G:\A-Workspace\AppDataLoader\src\main\java\com\example\dataloader\repository\ArticleRepository.java
+G:\A-Workspace\AppDataLoader\src\main\java\com\example\dataloader\service\ArticleService.java
+G:\A-Workspace\AppDataLoader\src\main\java\com\example\dataloader\controller\ArticleController.java
+G:\A-Workspace\AppDataLoader\src\main\java\com\example\dataloader\repository\ProductRepository.java
+G:\A-Workspace\AppDataLoader\src\main\java\com\example\dataloader\entity\Author.java
+G:\A-Workspace\AppDataLoader\src\main\java\com\example\dataloader\service\IArticleService.java

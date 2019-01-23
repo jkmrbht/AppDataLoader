@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: AppDataLoader
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: JitendraKr
+Implementation-Vendor-Id: com.bht
+Build-Jdk: 1.8.0_91
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/AppDataLoader
+Created-By: Maven Integration for Eclipse
+
